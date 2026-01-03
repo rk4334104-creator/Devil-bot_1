@@ -1,1 +1,111 @@
-Loda lele madarchod 
+
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100081822317162%22%3A%22zq6wXZik%22%2C%2261583354887744%22%3A%22Rb9bai8G%22%2C%2261585552106077%22%3A%22bmYbbEeQ%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.730Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.827667474746704",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "sb",
+        "value": "_phJaX45d4ys6sKa0WWGILOB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "datr",
+        "value": "bLBWaTKUckL3GXmIOiKU_-W2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "wd",
+        "value": "1048x1991",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61585552106077",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "fr",
+        "value": "1uyzEa0PLZREd41hL.AWffVqyUuYjFZGun1lrDua8h5NCQoTjlU4-KIy9ks8NGT1VKAB0.BpWRLz..AAA.0.0.BpWRLz.AWc6wb86cpvzfDU21sReUfnAfT0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "xs",
+        "value": "46%3AnQPDUYVCp1yKAQ%3A2%3A1767445231%3A-1%3A-1%3A%3AAczPjaUlvFHZcdmFPFHJWrmHCw4M7xdiDhBUdYB3cw",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22lm3%22%3A%22g.25326975816996885%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1767445239465%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-03T13:00:40.732Z",
+        "lastAccessed": "2026-01-03T13:00:40.732Z"
+    }
+]
